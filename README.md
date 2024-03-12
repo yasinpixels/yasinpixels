@@ -1,14 +1,18 @@
-### Hi there 👋
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yasin+Arafat!;" />
+</h1>
+<h3 align="center">A passionate Front End web developer</h3>
 
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<div align="center">
+ 
+ 
+ 🌱 🌱 I’m currently learning many things, I believe that everyday is a learning opportunity.
+ 
+ 📄 Know about my experiences [here.](https://drive.google.com/file/d/1w7T5Li4r2K8tLR1kd2xUePJQyvqE_QGp/view)
+ 
+ ⚡ Fun fact **I am friendly, funny, and an active listener**
+ 
+ </div>
 
 
 ## 🌐 Socials:
